@@ -1,0 +1,17 @@
+{
+  "dwell time": {
+    "definition": "The number of hours a container sits at a port terminal between vessel discharge and gate-out.",
+    "owner": "Port Ops Team",
+    "last_updated": "2026-06-01"
+  },
+  "on-time delivery": {
+    "definition": "Percentage of shipments that arrive at their destination on or before the scheduled delivery date.",
+    "owner": "Logistics Analytics",
+    "last_updated": "2026-05-15"
+  },
+  "otd": {
+    "definition": "Shorthand for On-Time Delivery rate. See 'on-time delivery'.",
+    "owner": "Logistics Analytics",
+    "last_updated": "2026-05-15"
+  }
+}
