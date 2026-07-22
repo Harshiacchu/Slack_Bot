@@ -4,6 +4,8 @@
 **Author:** Harshitha · Northeastern University
 **Instructor:** Prof. Jiazhen Zhu
 
+> **Want to run this yourself?** See [`SETUP.md`](SETUP.md) for step-by-step instructions — takes about 15 minutes, no API keys or cost.
+
 ---
 
 ## 1. What This Bot Does
